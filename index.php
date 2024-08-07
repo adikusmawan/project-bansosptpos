@@ -41,11 +41,13 @@ if(isset ($_GET["Notif"]) && !empty ($_GET["Notif"])){
 
 <!DOCTYPE html>
 <html lang="en" class="body-full-height">
-    
+       
 <!-- Mirrored from themifycloud.com/demos/templates/joli/pages-login-website-light.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Apr 2021 13:28:07 GMT -->
 <head>        
         <!-- META SECTION -->
-        <?php include "admin/title.php"; ?>            
+        <?php include "admin/title.php"; ?>  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
